@@ -15,6 +15,10 @@
 - MBP 5,3 (Nvidia GPUS)
   - 10.14 GM (18A391)
   - 10.14.1 (18B75)
+  
+- MBP 7,1 (Nvidia GPUS)
+  - 10.14 GM (18A391)
+  - 10.14.1 (18B75)
 
 - MBP 8,1 (Intel HD)
   - 10.14 GM (18A391)
